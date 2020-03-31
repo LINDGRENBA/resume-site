@@ -21,7 +21,7 @@ There are no known bugs at this time.
 
 ## Support and contact details
 
-Please feel free to contact me with any questions, ideas or concerns at name@gmail.com.
+Please feel free to contact me through GitHub with any questions, ideas or concerns.
 
 ## Technologies Used
 
