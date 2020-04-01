@@ -12,7 +12,7 @@ The purpose of this practice is to create a resume and to style it using divs an
 
 * Clone this repository.
 * To view the code itself, open in a text editor such as VS Code or Atom, etc.
-* To view in your browser, double click on my-first-webpage.html.
+* To view in your browser, double click on index.html.
 * You do not need to run a server to view this document.
 
 ## Known Bugs
